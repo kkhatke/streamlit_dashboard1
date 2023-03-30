@@ -15,7 +15,7 @@ st.set_page_config(page_title='Dashboard',
 @st.cache_data
 def get_data_from_excel():
     # DataFrame
-    df = pd.read_excel("C:/Users/31697/Desktop/otlay schemes.xlsx", header=0)
+    df = pd.read_excel("otlay schemes.xlsx", header=0)
     return df
 
 
