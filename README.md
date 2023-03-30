@@ -20,11 +20,11 @@ cmd
 ## Pushing 
 Push files on Github 
 cmds 
-  git init
-  git add .
-  git commit -m "initial commit"
-  git remote add origin https://github.com/kkhatke/streamlit_dashboard1.git
-  git push -u origin master
+  *git init
+  *git add .
+  *git commit -m "initial commit"
+  *git remote add origin https://github.com/kkhatke/streamlit_dashboard1.git
+  *git push -u origin master
 
 ## Render 
 for Deployment
